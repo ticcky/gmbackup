@@ -13,3 +13,7 @@ You need to change the configuration parameters in the beginning of the script (
  * USER  -- your username
  * PASSWORD -- your password
 
+Requirements
+------------
+
+ * Python 2.6+
